@@ -1,4 +1,4 @@
-# free-transform
+# Free Transform Library
 This library lets the user freely move, rotate, scale elements in the page using their fingers.
 
 ### How to Use
