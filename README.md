@@ -1,4 +1,15 @@
 # free-transform
-Free transform touch library for JavaScript
+This library lets the user freely move, rotate, scale elements in the page using their fingers.
 
-[Demo](https://jsfiddle.net/00u4v7hz/)
+### How to Use
+Include the library in your web page.
+```html
+<script src="https://cdn.rawgit.com/ken107/free-transform/master/FreeTransform.js"></script>
+```
+To enable free-transform on an element:
+```html
+<div class="free-transform"></div>
+```
+
+### Demo
+https://jsfiddle.net/00u4v7hz/
