@@ -1,5 +1,6 @@
 # Free Transform Library
-This library lets the user freely move, rotate, scale elements in the page using their fingers.
+Lets the user freely move, rotate, scale elements in the page using their fingers.
+
 
 ### How to Use
 Include the library in your web page.
@@ -10,6 +11,7 @@ To enable free-transform on an element:
 ```html
 <div class="free-transform"></div>
 ```
+
 
 ### Demo
 https://jsfiddle.net/00u4v7hz/
