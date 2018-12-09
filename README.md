@@ -5,7 +5,7 @@ Lets the user freely move, rotate, scale elements in the page using their finger
 ### How to Use
 Include the library in your web page.
 ```html
-<script src="https://cdn.rawgit.com/ken107/free-transform/master/FreeTransform.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ken107/free-transform@master/FreeTransform.js"></script>
 ```
 To enable free-transform on an element:
 ```html
